@@ -11,11 +11,14 @@ Learning: This project enhances skills in text preprocessing, data analysis, and
 Project Steps
 
 Text Preprocessing: The text is read from the supplied text file and converted to lowercase to ensure case-insensitive analysis. Punctuation marks are removed to accurately count words.
+
 Word Counting: Words are split from the preprocessed text, and their frequencies are counted using the collections.Counter class.
+
 Top Words Selection: The twenty words with the highest frequencies are selected using the most_common method.
+
 Data Visualization: Using the matplotlib library, a bar plot is created to visually represent the top twenty words and their frequencies. The x-axis displays words, and the y-axis shows their frequencies.
+
 Annotations: The actual frequency values are displayed on top of each bar for clearer insights.
-Usage
 
 
 Learning Outcomes
