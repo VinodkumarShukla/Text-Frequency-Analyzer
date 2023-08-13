@@ -1,4 +1,4 @@
-# TWord Frequency Analysis and Visualization
+# Word Frequency Analysis and Visualization
 
 This project focuses on analyzing the frequency of words in a given text file and creating a bar plot to visualize the top twenty most frequently occurring words. The process involves a series of steps to process the text, count word frequencies, and present the results through data visualization.
 
